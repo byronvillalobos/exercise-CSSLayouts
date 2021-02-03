@@ -1,1 +1,16 @@
 /* your code here */
+#mySecondH2 {
+	display: none;
+}
+#myFirstH2 {
+	visibility: hidden;
+}
+ul {
+	overflow: hidden;
+}
+li {
+	display: inline-block;
+}
+strong {
+	display: block;
+}
